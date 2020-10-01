@@ -1,0 +1,1 @@
+New detection module
